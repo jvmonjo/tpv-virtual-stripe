@@ -9,7 +9,7 @@ This is just a virtual payment platform for stripe.com. Once installed you'll be
 Just send a url with 2 paramenters:
 
 ```
-?cuantia=<insert here the amount>$concepto=<insert here the a product or invoice number, etc... >
+?cuantia=<insert here the amount>&concepto=<insert here the a product or invoice number, etc... >
 
 ```
 
