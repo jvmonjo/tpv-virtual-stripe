@@ -1,6 +1,6 @@
 # TPV Virtual
 
-This is just a virtual payment platform for stripe.com. Onced installed you'll be able to setup payments for your site with credit card with just sending a link.
+This is just a virtual payment platform for stripe.com. Once installed you'll be able to setup payments for your site with credit card with just sending a link.
 
 ## Usage
 
@@ -11,7 +11,7 @@ Just send a url with 2 paramenters:
 
 ```
 
-To get startedJust install dependences with
+To get started just install dependences with
 ```
 composer install
 
