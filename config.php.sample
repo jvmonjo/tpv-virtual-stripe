@@ -1,0 +1,16 @@
+<?php
+require_once('vendor/autoload.php');
+$stripe = array(
+ "secret_key"      => "",
+ "publishable_key" => "",
+);
+$config = array(
+ "business_name"   => "",
+ "business_url"   => "",
+ "business_square_logo"   => "",
+ "business_top_logo"   => "",
+ "button_text"     => "Pagar ahora",
+ "locale"          => "es"
+);
+\Stripe\Stripe::setApiKey($stripe['secret_key']);
+?>
