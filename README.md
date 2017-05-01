@@ -20,5 +20,5 @@ Rename config.php.sample to config.php and set stripe keys and preferences
 
 ## Credits:
 * [@monjo](https://twitter.com/monjo) - Development
-* [Material Design](https://getmdl.io) - Frontend HTML framework
+* [Google](https://getmdl.io) - Frontend HTML framework. Material Design Lite
 * [Stripe checkout](https://stripe.com/checkout) - Payment API

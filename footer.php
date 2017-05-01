@@ -10,7 +10,7 @@
           </div>
 
           <div class="mdl-mega-footer--middle-section">
-            &lt;/&gt; + ♡ = <a href="https://nexe.ws" target="_blank">Nexe</a>
+            &lt;/&gt; + ♡ = <a href="https://monjo.xyz" target="_blank">@monjo</a>
           </div>
 
           <div class="mdl-mega-footer--bottom-section" style="float: right;">
