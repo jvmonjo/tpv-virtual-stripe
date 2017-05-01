@@ -1,8 +1,8 @@
-###TPV Virtual###
+###TPV Virtual
 
 This is just a virtual payment platform for stripe.com. Onced installed you'll be able to setup payments for your site with credit card with just sending a link.
 
-#Usage#
+#Usage
 
 Just send a url with 2 paramenters:
 
@@ -18,7 +18,7 @@ composer install
 ```
 Rename config.php.sample to config.php and set stripe keys and preferences
 
-#Credits:#
+#Credits:
 Implementation: [https://nexe.ws]
 Frontend HTML framework [https://getmdl.io]
 Backend: [https://stripe.com]
