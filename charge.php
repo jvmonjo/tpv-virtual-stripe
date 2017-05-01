@@ -74,7 +74,7 @@
               if ($_POST['stripeToken']) {
                 echo "<p>La operación se ha realizado correctamente. Estos son los detalles de la operación:</p>";
                 echo "<strong>-Id transacción:</strong> <em>".$transaction_id."</em><br>";
-                echo "<strong>-Concepto:</strong> <em>".$description."€</em><br>";
+                echo "<strong>-Concepto:</strong> <em>".$description."</em><br>";
                 echo "<strong>-Cuantía:</strong> <em>".$cuantia."€</em><br><br>";
                 echo "<p>En breve le enviaremos un recibo de esta transacción a su correo electrónico</p>";
               }else {
