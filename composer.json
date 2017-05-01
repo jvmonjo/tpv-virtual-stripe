@@ -1,4 +1,12 @@
 {
+    "name": "jvmonjo/tpv-virtual-stripe",
+    "version": "1.0.0",
+    "authors": [{
+            "name": "Josep V. Monjo",
+            "email": "josep@monjo.xyz",
+            "homepage": "https://monjo.xyz",
+            "role": "Developer"
+        }],
     "require": {
         "stripe/stripe-php": "^4.9"
     }

@@ -30,9 +30,9 @@
                 background-color: white;
                 margin-top: 50px;
             }
-            .result:before {
+            .mdl-card__title:before {
                 background: linear-gradient(-45deg, #F3F3F3 16px, transparent 0), linear-gradient(45deg, #F3F3F3 16px, transparent 0);
-                background-position: left-top;
+                background-position: left-bottom;
                 background-repeat: repeat-x;
                 background-size: 32px 32px;
                 content: " ";
@@ -64,7 +64,7 @@
 
           <div class="mdl-card result" style="margin-left:auto; margin-right:auto;">
             <div class="mdl-card__title">
-              <h2 class="mdl-card__title-text"></h2>
+              <h2 class="mdl-card__title-text" style="color: #FF4081;">Resultado de la transacción</h2>
             </div>
             <div class="mdl-card__media">
               <img src="images/rebut.png" width="220" height="140" border="0" alt="" style="padding:20px;">
@@ -78,7 +78,7 @@
                 echo "<strong>-Cuantía:</strong> <em>".$cuantia."€</em><br><br>";
                 echo "<p>En breve le enviaremos un recibo de esta transacción a su correo electrónico</p>";
               }else {
-                echo "<p><strong>La operación no se ha podido realizar correctamente. Para efectuar un pago debe visitar el enlace que habrá recibido en su correo</strong></p>";
+                echo "<p><strong>La operación no se ha podido realizar correctamente</strong>.</p><p>Recuerde que para efectuar un pago debe visitar el enlace que habrá recibido en su correo. Si sigue teniendo problemas, contacte con nosotros</p>";
               }
 
               ?>
@@ -87,7 +87,10 @@
                 Volver a <a class="android-link mdl-typography--font-light" href="<?php echo $config['business_url']; ?>" target="_blank"><?php echo $config['business_name']; ?></a>
             </div>
           </div>
+          <div style="padding-top:50px"></div>
         </div>
+
+
 
 
 

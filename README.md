@@ -19,6 +19,6 @@ composer install
 Rename config.php.sample to config.php and set stripe keys and preferences
 
 ## Credits:
-* [Nexe](https://nexe.ws) - Implementation
+* [@monjo](https://twitter.com/monjo) - Development
 * [Material Design](https://getmdl.io) - Frontend HTML framework
-* [Stripe](https://stripe.com) - Backend
+* [Stripe checkout](https://stripe.com/checkout) - Payment API
