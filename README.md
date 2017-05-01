@@ -18,7 +18,7 @@ To get started just install dependences with
 composer install
 
 ```
-Rename config.php.sample to config.php and set stripe keys and preferences
+Rename config.php.sample to config.php and set your stripe.com keys and preferences
 
 ## Credits:
 * [@monjo](https://twitter.com/monjo) - Development
