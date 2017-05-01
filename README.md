@@ -2,6 +2,8 @@
 
 This is just a virtual payment platform for stripe.com. Once installed you'll be able to setup payments for your site with credit card with just sending a link.
 
+![TPV virtual](https://lh3.googleusercontent.com/JiSmA3nINhFfqeO8MtHCzjxwjE6cuJAHsz5bhkkOSgULE0Ncy_uKeuJHBtWh7vnYrhZNygzhcdcIw-I=w1920-h1080-rw-no "Captura")
+
 ## Usage
 
 Just send a url with 2 paramenters:
