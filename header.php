@@ -53,7 +53,7 @@
 
           </div>
           <span class="android-mobile-title mdl-layout-title">
-          <a href="<?php echo $config['business_url']; ?>" target="_blank">  <img class="android-logo-image" src="<?php echo $config['business_square_logo']; ?>"></a>
+          <a href="<?php echo $config['business_url']; ?>" target="_blank">  <img class="android-logo-image" src="<?php echo $config['business_top_logo']; ?>"></a>
           </span>
 
         </div>

@@ -2,7 +2,7 @@
         <footer class="android-footer mdl-mega-footer">
           <div class="mdl-mega-footer--top-section">
             <div class="mdl-mega-footer--left-section">
-              <p class="mdl-typography--font-light"><?php echo '© ' . date(Y) . ' '.$config['business_name']; ?></p>
+              <p class="mdl-typography--font-light">©<?php echo date(Y) ?> <a class="android-link mdl-typography--font-light" href="<?php echo $config["business_url"] ?>" target="_blank"><?php echo $config["business_name"] ?></a>. TPV Virtual</p>
             </div>
             <div class="mdl-mega-footer--right-section">
               <img src="images/powered_by_stripe.png" alt="">
@@ -10,11 +10,11 @@
           </div>
 
           <div class="mdl-mega-footer--middle-section">
-            TPV Virtual de <a class="android-link mdl-typography--font-light" href="<?php echo $config['business_url']; ?>" target="_blank"><?php echo $config['business_name']; ?></a>
+            &lt;/&gt; + ♡ = <a href="https://nexe.ws" target="_blank">Nexe</a>
           </div>
 
           <div class="mdl-mega-footer--bottom-section" style="float: right;">
-            &lt;/&gt; + ♡ = <a href="https://nexe.ws" target="_blank">Nexe</a>
+
           </div>
 
         </footer>
