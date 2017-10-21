@@ -20,6 +20,9 @@ composer install
 ```
 Rename config.php.sample to config.php and set your stripe.com keys and preferences
 
+## TODO
+Make it tranlatable
+
 ## Credits:
 * [@monjo](https://twitter.com/monjo) - Development
 * [Google](https://getmdl.io) - Frontend HTML framework. Material Design Lite
